@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/neofetch.svg" width="100%" alt="Terminal card — Santiago Yie: Senior Backend Engineer · Applied AI. 18 years in production backend for US agencies, government and nonprofits. Open source at yielab: Docket, Tack, Adapta, Fabulada.">
+  <img src="./assets/neofetch.svg" width="100%" alt="Terminal card — Santiago Yie: Senior Backend Engineer · Applied AI. 18 years engineering reliable production systems across enterprise, government, and nonprofits. Author of open-source tooling at yielab: Docket, Tack, Adapta, Fabulada.">
 </p>
 
 <p align="center">
